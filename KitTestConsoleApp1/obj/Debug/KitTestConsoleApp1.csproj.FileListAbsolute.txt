@@ -1,0 +1,6 @@
+C:\My Documents\Project .NET 2020 DMV\KitTestConsoleApp1\bin\Debug\KitTestConsoleApp1.exe.config
+C:\My Documents\Project .NET 2020 DMV\KitTestConsoleApp1\bin\Debug\KitTestConsoleApp1.exe
+C:\My Documents\Project .NET 2020 DMV\KitTestConsoleApp1\bin\Debug\KitTestConsoleApp1.pdb
+C:\My Documents\Project .NET 2020 DMV\KitTestConsoleApp1\obj\Debug\KitTestConsoleApp1.csprojAssemblyReference.cache
+C:\My Documents\Project .NET 2020 DMV\KitTestConsoleApp1\obj\Debug\KitTestConsoleApp1.exe
+C:\My Documents\Project .NET 2020 DMV\KitTestConsoleApp1\obj\Debug\KitTestConsoleApp1.pdb
